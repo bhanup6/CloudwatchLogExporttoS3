@@ -1,2 +1,0 @@
-# CloudwatchLogExporttoS3
-CloudwatchLogExporttoS3
